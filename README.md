@@ -1,31 +1,18 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+# Dice Roll
 
-# Dicee
+<img src="preview-iphone-11.png" alt="preview-iphone-11" width="200"/>
 
-## Our Goal
+---
 
-The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps you’ll build in the future. This app will teach you a lot of important programming knowledge, while building a neat dice app.
+Roll the dice.
 
-## What you will create
+As part of the [Bootcamp](https://www.udemy.com/share/101WsW3@yktJHalVtYY-9E6kEsjzpOJK-IJHOKqcOUt2hZ1IsfahqOLfZzzxDtUwFjIfl-2fig==/) course.
 
-We’re going to make a Las Vegas dice app. You can make the die roll at the press of a button or by shaking your phone. With this app in your pocket, you’ll be fully set up to settle any score on the go!
+# Stack
 
+- [Swift](https://www.swift.org)
+- [UiKit](https://developer.apple.com/documentation/uikit)
 
-## What you will learn
+# [LICENSE](./LICENSE)
 
-* How to clone an existing Xcode project from GitHub.
-* Create an app with behaviour and functionality.
-* Create links between the Interface Builder files and code using IBActions and IBOutlets.
-* Get familiar with the Xcode code editor.
-* * Learn to use comments to annotate code.
-* Understand and use Swift constants and variables.
-* Understand and use collection types such as Swift arrays.
-* Test and debug your app with the Xcode console.
-* Learn about randomisation and how to generate random numbers in Swift.
-
-
-
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
-
+Public domain.
